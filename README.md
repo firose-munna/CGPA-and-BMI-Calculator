@@ -3,10 +3,13 @@
 A new Flutter project.
 
 ##Output
-![Screenshot_2023-06-14-23-46-02-545_com firose counter_app](https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/c3c51e7f-5ac0-4a7b-a7bd-1859bc3fe97e)
 
-![Screenshot_2023-06-14-23-46-22-141_com firose counter_app](https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/cf37d64e-411b-42f8-b7b6-a7226b704ff4)
-![Screenshot_2023-06-14-23-47-24-203_com firose counter_app](https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/172f52fc-5a30-4056-bc2a-30e92d6af18b)
+<img src="https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/c3c51e7f-5ac0-4a7b-a7bd-1859bc3fe97e" alt="Home" height="400" width="200">
+
+<img src="https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/cf37d64e-411b-42f8-b7b6-a7226b704ff4" alt="CGPA" height="400" width="200">
+<img src="https://github.com/firose-munna/CGPA-and-BMI-Calculator/assets/105736440/172f52fc-5a30-4056-bc2a-30e92d6af18b" alt="BMI" height="400" width="200">
+
+
 
 
 ## Getting Started
