@@ -1,6 +1,6 @@
-# counter_app
+# CB Calculator
 
-A new Flutter project.
+This is a combine calculator which is calculate the CGPA and Check your BMI. 
 
 ##Output
 
